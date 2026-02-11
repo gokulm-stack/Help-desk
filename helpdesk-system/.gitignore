@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+dist/
+
+# Environment Variables
+.env
+
+# Log files
+*.log
+
+# macOS files
+.DS_Store
+
+# Code coverage
+coverage/
+
+# Other development artifacts
